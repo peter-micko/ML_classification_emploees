@@ -1,0 +1,8 @@
+/.DS_Store
+/.ipynb_checkpoints
+/df_hr_processed.csv
+/hr_data.csv
+/hr_data_processed.csv
+/lesson-2-workbook.ipynb
+/random-forest-trained.pkl
+/random-forest_final_model.pkl
